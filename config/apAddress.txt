@@ -1,0 +1,3 @@
+111,siva,Kadapa,Bonamala,516214
+112,subba,Kadapa,Bonamala,516214
+113,nag,Kadapa,Bonamala,516214
